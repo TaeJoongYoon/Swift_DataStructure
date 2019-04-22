@@ -1,6 +1,6 @@
 # Swift DataStructure
 
-##### Data Structures of Swift4.
+##### Data Structures written by Swift4.
 ##### These codes are what I was studing about Swift Data Structure(abstract data type).
 </br>
 
